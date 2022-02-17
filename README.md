@@ -4,5 +4,10 @@
 
  ## Built with / O que eu usei na aplicação 
  - HTML5 semantic
- - CSS
+ - CSS 
+ - Flexbox
  - Javascript 
+
+ ## Links 
+ - Front end mentor - [https://www.frontendmentor.io/profile/paulovictor1997](https://www.frontendmentor.io/profile/paulovictor1997)
+ - Live site - [](https://your-live-site-url.com)
