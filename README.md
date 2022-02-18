@@ -10,4 +10,4 @@
 
  ## Links 
  - Front end mentor - [https://www.frontendmentor.io/profile/paulovictor1997](https://www.frontendmentor.io/profile/paulovictor1997)
- - Live site - [](https://your-live-site-url.com)
+ - Live site - [https://paulovictor1997.github.io/Project-Tracking-Intro-Component/](https://paulovictor1997.github.io/Project-Tracking-Intro-Component/)
